@@ -16,12 +16,4 @@ largeReact('Rainbow');
 ```
 ## License
 
-Apache-2.0 © [Emmanuel Henri]()
-
-
-[npm-image]: https://badge.fury.io/js/large-react.svg
-[npm-url]: https://npmjs.org/package/large-react
-[travis-image]: https://travis-ci.org//large-react.svg?branch=master
-[travis-url]: https://travis-ci.org//large-react
-[daviddm-image]: https://david-dm.org//large-react.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org//large-react
+Apache-2.0 
